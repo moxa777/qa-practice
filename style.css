@@ -18,3 +18,18 @@ input, textarea {
   margin-bottom: 12px;
   box-sizing: border-box;
 }
+
+header {
+    background-color: #333;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
